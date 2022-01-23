@@ -21,7 +21,7 @@
     "enableTranslation": true,
     "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
     "entitySuffix": "",
-    "herokuAppName": "jhipster",
+    "herokuAppName": null,
     "herokuDeployType": "jar",
     "herokuJavaVersion": "11",
     "jhiPrefix": "jhi",
